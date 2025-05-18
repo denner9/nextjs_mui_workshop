@@ -19,7 +19,7 @@ const HomePage: FC<HomePageProps> = async ({ searchParams }) => {
         position: 'absolute',
         top: '0px',
         left: '0px',
-        backgroundColor: '#F3FFF4'
+        backgroundColor: 'primary.light'
       }}
     >
       {/* Title section  */}
@@ -28,7 +28,7 @@ const HomePage: FC<HomePageProps> = async ({ searchParams }) => {
           component={'h1'}
           sx={{
             fontSize: { xs: '30px', md: '48px' },
-            color: '#048853',
+            color: 'primary.dark',
             textAlign: 'center',
           }}
         >
