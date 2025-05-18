@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Casa #1 en Montevideo",
+    "summary": "Casa cerca del mar",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "Montevideo",
+      "state": "Montevideo",
+      "country": "Uruguay"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "1",
+      "area": "237",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_1_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_1_1.jpg",
+        "https://example.com/images/property_1_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 277048,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #2 en Madrid",
+    "summary": "Departamento moderno y luminoso",
+    "description": "Ideal para quienes buscan comodidad y estilo en una ubicación privilegiada.",
+    "location": {
+      "city": "Madrid",
+      "state": "Madrid",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "1",
+      "area": "161",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_2_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_2_1.jpg",
+        "https://example.com/images/property_2_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 124788,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #3 en Santiago",
+    "summary": "Departamento con jardín privado",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Santiago",
+      "state": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "1",
+      "area": "117",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_3_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_3_1.jpg",
+        "https://example.com/images/property_3_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 370452,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #4 en Madrid",
+    "summary": "Ático ideal para familias",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "Madrid",
+      "state": "Madrid",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "3",
+      "area": "204",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_4_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_4_1.jpg",
+        "https://example.com/images/property_4_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 269466,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #5 en Madrid",
+    "summary": "Ático moderno y luminoso",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "Madrid",
+      "state": "Madrid",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "3",
+      "area": "133",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_5_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_5_1.jpg",
+        "https://example.com/images/property_5_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 133136,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #6 en São Paulo",
+    "summary": "Casa cerca del mar",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "3",
+      "area": "112",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_6_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_6_1.jpg",
+        "https://example.com/images/property_6_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 471100,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #7 en Madrid",
+    "summary": "Ático con acceso a transporte",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Madrid",
+      "state": "Madrid",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "2",
+      "area": "66",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_7_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_7_1.jpg",
+        "https://example.com/images/property_7_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 145713,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Dúplex #8 en São Paulo",
+    "summary": "Dúplex en barrio tranquilo",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "3",
+      "area": "78",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_8_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_8_1.jpg",
+        "https://example.com/images/property_8_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 298238,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #9 en Buenos Aires",
+    "summary": "Departamento ideal para familias",
+    "description": "Una gran oportunidad para vivir en una zona segura y bien conectada.",
+    "location": {
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "propertyDetails": {
+      "rooms": "4",
+      "bathrooms": "2",
+      "area": "50",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_9_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_9_1.jpg",
+        "https://example.com/images/property_9_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 361919,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Dúplex #10 en São Paulo",
+    "summary": "Dúplex moderno y luminoso",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil"
+    },
+    "propertyDetails": {
+      "rooms": "2",
+      "bathrooms": "1",
+      "area": "243",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_10_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_10_1.jpg",
+        "https://example.com/images/property_10_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 390366,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #11 en Montevideo",
+    "summary": "Ático en barrio tranquilo",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "Montevideo",
+      "state": "Montevideo",
+      "country": "Uruguay"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "3",
+      "area": "123",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_11_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_11_1.jpg",
+        "https://example.com/images/property_11_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 142828,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Dúplex #12 en São Paulo",
+    "summary": "Dúplex moderno y luminoso",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "3",
+      "area": "206",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_12_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_12_1.jpg",
+        "https://example.com/images/property_12_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 377297,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Estudio #13 en Buenos Aires",
+    "summary": "Estudio en zona exclusiva",
+    "description": "Una gran oportunidad para vivir en una zona segura y bien conectada.",
+    "location": {
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "1",
+      "area": "60",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_13_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_13_1.jpg",
+        "https://example.com/images/property_13_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 407288,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #14 en Buenos Aires",
+    "summary": "Ático moderno y luminoso",
+    "description": "Una gran oportunidad para vivir en una zona segura y bien conectada.",
+    "location": {
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "2",
+      "area": "238",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_14_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_14_1.jpg",
+        "https://example.com/images/property_14_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 384504,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #15 en São Paulo",
+    "summary": "Departamento cerca del centro",
+    "description": "Ideal para quienes buscan comodidad y estilo en una ubicación privilegiada.",
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "2",
+      "area": "108",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_15_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_15_1.jpg",
+        "https://example.com/images/property_15_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 339573,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #16 en Quito",
+    "summary": "Casa ideal para familias",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Quito",
+      "state": "Pichincha",
+      "country": "Ecuador"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "3",
+      "area": "116",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_16_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_16_1.jpg",
+        "https://example.com/images/property_16_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 81557,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #17 en Madrid",
+    "summary": "Departamento con vista panorámica",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "Madrid",
+      "state": "Madrid",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "2",
+      "bathrooms": "2",
+      "area": "229",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_17_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_17_1.jpg",
+        "https://example.com/images/property_17_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 189277,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #18 en Quito",
+    "summary": "Departamento cerca del mar",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "Quito",
+      "state": "Pichincha",
+      "country": "Ecuador"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "3",
+      "area": "135",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_18_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_18_1.jpg",
+        "https://example.com/images/property_18_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 433612,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #19 en Barcelona",
+    "summary": "Casa con vista panorámica",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Barcelona",
+      "state": "Cataluña",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "1",
+      "bathrooms": "3",
+      "area": "189",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_19_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_19_1.jpg",
+        "https://example.com/images/property_19_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 471297,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #20 en Medellín",
+    "summary": "Ático con acceso a transporte",
+    "description": "Propiedad ubicada en una excelente zona, con fácil acceso a servicios y transporte público.",
+    "location": {
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia"
+    },
+    "propertyDetails": {
+      "rooms": "2",
+      "bathrooms": "3",
+      "area": "97",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_20_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_20_1.jpg",
+        "https://example.com/images/property_20_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 351428,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Ático #21 en Montevideo",
+    "summary": "Ático cerca del centro",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "Montevideo",
+      "state": "Montevideo",
+      "country": "Uruguay"
+    },
+    "propertyDetails": {
+      "rooms": "2",
+      "bathrooms": "2",
+      "area": "226",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_21_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_21_1.jpg",
+        "https://example.com/images/property_21_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 114867,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #22 en São Paulo",
+    "summary": "Casa con acceso a transporte",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "country": "Brasil"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "2",
+      "area": "214",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_22_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_22_1.jpg",
+        "https://example.com/images/property_22_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 334307,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Departamento #23 en Buenos Aires",
+    "summary": "Departamento cerca del centro",
+    "description": "Ideal para quienes buscan comodidad y estilo en una ubicación privilegiada.",
+    "location": {
+      "city": "Buenos Aires",
+      "state": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "propertyDetails": {
+      "rooms": "4",
+      "bathrooms": "1",
+      "area": "225",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_23_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_23_1.jpg",
+        "https://example.com/images/property_23_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 50247,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Estudio #24 en Santiago",
+    "summary": "Estudio en zona exclusiva",
+    "description": "Una gran oportunidad para vivir en una zona segura y bien conectada.",
+    "location": {
+      "city": "Santiago",
+      "state": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "2",
+      "area": "61",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_24_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_24_1.jpg",
+        "https://example.com/images/property_24_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 490414,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Dúplex #25 en Ciudad de México",
+    "summary": "Dúplex en barrio tranquilo",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Ciudad de México",
+      "state": "CDMX",
+      "country": "México"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "1",
+      "area": "90",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_25_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_25_1.jpg",
+        "https://example.com/images/property_25_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 219659,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Dúplex #26 en Montevideo",
+    "summary": "Dúplex moderno y luminoso",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Montevideo",
+      "state": "Montevideo",
+      "country": "Uruguay"
+    },
+    "propertyDetails": {
+      "rooms": "4",
+      "bathrooms": "1",
+      "area": "169",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_26_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_26_1.jpg",
+        "https://example.com/images/property_26_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 119002,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #27 en Medellín",
+    "summary": "Casa en barrio tranquilo",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "2",
+      "area": "178",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_27_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_27_1.jpg",
+        "https://example.com/images/property_27_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 473258,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Estudio #28 en Lima",
+    "summary": "Estudio cerca del mar",
+    "description": "Ideal para quienes buscan comodidad y estilo en una ubicación privilegiada.",
+    "location": {
+      "city": "Lima",
+      "state": "Lima",
+      "country": "Perú"
+    },
+    "propertyDetails": {
+      "rooms": "2",
+      "bathrooms": "1",
+      "area": "129",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_28_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_28_1.jpg",
+        "https://example.com/images/property_28_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 254385,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #29 en Barcelona",
+    "summary": "Casa con vista panorámica",
+    "description": "Diseño moderno y funcional, perfecto para una vida urbana.",
+    "location": {
+      "city": "Barcelona",
+      "state": "Cataluña",
+      "country": "España"
+    },
+    "propertyDetails": {
+      "rooms": "3",
+      "bathrooms": "3",
+      "area": "196",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_29_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_29_1.jpg",
+        "https://example.com/images/property_29_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 458177,
+      "currencySymbol": "$"
+    }
+  },
+  {
+    "name": "Casa #30 en Quito",
+    "summary": "Casa cerca del mar",
+    "description": "Cuenta con amplios espacios, buena iluminación natural y acabados de calidad.",
+    "location": {
+      "city": "Quito",
+      "state": "Pichincha",
+      "country": "Ecuador"
+    },
+    "propertyDetails": {
+      "rooms": "5",
+      "bathrooms": "2",
+      "area": "223",
+      "areaUnitsOfMeasurement": "m2"
+    },
+    "images": {
+      "main": "https://example.com/images/property_30_main.jpg",
+      "otherImages": [
+        "https://example.com/images/property_30_1.jpg",
+        "https://example.com/images/property_30_2.jpg"
+      ]
+    },
+    "priceDetails": {
+      "amount": 144677,
+      "currencySymbol": "$"
+    }
+  }
+]

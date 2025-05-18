@@ -7,7 +7,7 @@ export default function Home() {
         component={'h1'}
         sx={{ color: 'primary.main', fontSize: '32px' }}
       >
-        Hello World!
+        Welcome to NextJS + MUI introduction.
       </Typography>
     </Box>
   );
