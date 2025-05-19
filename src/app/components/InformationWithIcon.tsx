@@ -1,5 +1,5 @@
 import { FC } from 'react'
-import { Stack, Typography } from '@mui/material';
+import { Box, Stack, Typography } from '@mui/material';
 import Image from 'next/image';
 import AreaIcon from '&/images/areaIcon.png';
 import BathIcon from '&/images/bathIcon.png';
@@ -22,8 +22,8 @@ const InformationWithIcon: FC<InformationWithIconProps> = ({ icon, description, 
   }
 
   return (
-    <Stack>
-      <Stack gap={'4px'}>
+    <Box>
+      <Stack gap={'4px'} direction={'row'}>
         <Image
           alt='icon'
           src={srcImage}
@@ -40,7 +40,7 @@ const InformationWithIcon: FC<InformationWithIconProps> = ({ icon, description, 
         </Typography>
       </Stack>
       <Typography fontSize={'12px'}>{description}</Typography>
-    </Stack>
+    </Box>
   )
 }
 

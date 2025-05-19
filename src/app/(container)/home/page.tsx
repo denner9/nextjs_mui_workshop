@@ -1,5 +1,6 @@
+import PropertyCard from "@/app/components/PropertyCard";
 import { getProperties } from "@/app/utils/getProperties";
-import { Box } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 import { FC } from "react";
 
 interface HomePageProps {
@@ -12,11 +13,21 @@ const HomePage: FC<HomePageProps> = async ({ searchParams }) => {
   const properties = await getProperties(show as string);
 
   return (
-    <Box>
+    <Stack direction={'row'} sx={{gap: '30px', flexWrap: 'wrap', justifyContent: 'center', px: '25px', pb: '100px'}}>
       {properties && properties.map((property, i) => (
-        <h1 key={i}>{property.name}</h1>
+        <Box
+          key={i}
+          sx={{
+            width: {
+              xs: '100%',
+              sm: '50%',
+              md: '30%',
+            },
+          }}>
+          <PropertyCard property={property} />
+        </Box>
       ))}
-    </Box>
+    </Stack>
   );
 }
 

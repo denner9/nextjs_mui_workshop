@@ -39,17 +39,17 @@ const PropertyCard: FC<PropertyCardProps> = ({ property }) => {
       <Stack gap={'29px'}>
         <Stack>
           <Typography sx={{ fontSize: '24px', fontWeight: 500 }}>
-            {property.priceDetails.currencySymbol}{property.priceDetails.amount}
+            {property.priceDetails.currencySymbol}{property.priceDetails.amount.toLocaleString()}
           </Typography>
           <Typography sx={{ fontSize: '14px' }}>{property.name}</Typography>
           <Typography sx={{ fontSize: '14px', color: '#FF0000' }}>{property.location.country} - {property.location.state}</Typography>
         </Stack>
 
         <Stack direction={'row'} justifyContent={'space-between'} gap={1}>
-          <InformationWithIcon description={'Bedrooms'} icon='rooms' value={property.propertyDetails.rooms} />
-          <InformationWithIcon description={'Bathrooms'} icon='bathrooms' value={property.propertyDetails.bathrooms} />
+          <InformationWithIcon description={'Cuartos'} icon='rooms' value={property.propertyDetails.rooms} />
+          <InformationWithIcon description={'Baños'} icon='bathrooms' value={property.propertyDetails.bathrooms} />
           <InformationWithIcon
-            description={'Area'}
+            description={'Área'}
             icon='area'
             value={`${property.propertyDetails.area} ${property.propertyDetails.areaUnitsOfMeasurement}`}
           />

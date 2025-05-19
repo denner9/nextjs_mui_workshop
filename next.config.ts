@@ -7,10 +7,18 @@ const nextConfig: NextConfig = {
       {
         source: '/',
         destination: '/home',
-        permanent: true, 
+        permanent: true,
       },
     ];
-  }
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+      },
+    ],
+  },
 };
 
 export default nextConfig;
