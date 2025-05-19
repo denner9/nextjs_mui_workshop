@@ -10,7 +10,15 @@ const nextConfig: NextConfig = {
         permanent: true, 
       },
     ];
-  }
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+      },
+    ],
+  },
 };
 
 export default nextConfig;
