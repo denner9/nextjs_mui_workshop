@@ -45,7 +45,7 @@ const PropertyCard: FC<PropertyCardProps> = ({ property }) => {
           <Typography sx={{ fontSize: '14px', color: '#FF0000' }}>{property.location.country} - {property.location.state}</Typography>
         </Stack>
 
-        <Stack direction={'row'} justifyContent={'space-between'}>
+        <Stack direction={'row'} justifyContent={'space-between'} gap={1}>
           <InformationWithIcon description={'Bedrooms'} icon='rooms' value={property.propertyDetails.rooms} />
           <InformationWithIcon description={'Bathrooms'} icon='bathrooms' value={property.propertyDetails.bathrooms} />
           <InformationWithIcon
