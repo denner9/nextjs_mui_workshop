@@ -15,7 +15,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_1_main.jpg",
+      "main": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_1_1.jpg",
         "https://example.com/images/property_1_2.jpg"
@@ -42,7 +42,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_2_main.jpg",
+      "main": "https://images.pexels.com/photos/10827221/pexels-photo-10827221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_2_1.jpg",
         "https://example.com/images/property_2_2.jpg"
@@ -69,7 +69,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_3_main.jpg",
+      "main": "https://images.pexels.com/photos/10827225/pexels-photo-10827225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_3_1.jpg",
         "https://example.com/images/property_3_2.jpg"
@@ -96,7 +96,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_4_main.jpg",
+      "main": "https://images.pexels.com/photos/27277237/pexels-photo-27277237/free-photo-of-calle-edificio-casa-techo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_4_1.jpg",
         "https://example.com/images/property_4_2.jpg"
@@ -123,7 +123,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_5_main.jpg",
+      "main": "https://images.pexels.com/photos/10827223/pexels-photo-10827223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_5_1.jpg",
         "https://example.com/images/property_5_2.jpg"
@@ -150,7 +150,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_6_main.jpg",
+      "main": "https://images.pexels.com/photos/5502227/pexels-photo-5502227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_6_1.jpg",
         "https://example.com/images/property_6_2.jpg"
@@ -177,7 +177,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_7_main.jpg",
+      "main": "https://images.pexels.com/photos/7601163/pexels-photo-7601163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_7_1.jpg",
         "https://example.com/images/property_7_2.jpg"
@@ -204,7 +204,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_8_main.jpg",
+      "main": "https://images.pexels.com/photos/20600282/pexels-photo-20600282/free-photo-of-casas-verano-casa-hierba.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_8_1.jpg",
         "https://example.com/images/property_8_2.jpg"
@@ -231,7 +231,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_9_main.jpg",
+      "main": "https://images.pexels.com/photos/15461302/pexels-photo-15461302/free-photo-of-casa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_9_1.jpg",
         "https://example.com/images/property_9_2.jpg"
@@ -258,7 +258,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_10_main.jpg",
+      "main": "https://images.pexels.com/photos/3686267/pexels-photo-3686267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_10_1.jpg",
         "https://example.com/images/property_10_2.jpg"
@@ -285,7 +285,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_11_main.jpg",
+      "main": "https://images.pexels.com/photos/14558197/pexels-photo-14558197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_11_1.jpg",
         "https://example.com/images/property_11_2.jpg"
@@ -312,7 +312,7 @@
       "areaUnitsOfMeasurement": "m2"
     },
     "images": {
-      "main": "https://example.com/images/property_12_main.jpg",
+      "main": "https://images.pexels.com/photos/2031727/pexels-photo-2031727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "otherImages": [
         "https://example.com/images/property_12_1.jpg",
         "https://example.com/images/property_12_2.jpg"
